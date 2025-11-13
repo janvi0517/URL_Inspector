@@ -54,8 +54,8 @@ VT_API_ENV = "VT_API_KEY"
 SHODAN_API_ENV = "SHODAN_API_KEY"
 
 # Hard-coded (insecure) fallback — change or leave empty
-HARDCODED_VT_KEY = "598b4eab081a9b17988f4d44c333337b3e24ac4f3cc296ed00efd19ba9c97846"          # Put your VirusTotal v3 API key here if desired
-HARDCODED_SHODAN_KEY = "LKmrn2bmq73e0xaVxz7VHYkJrvYvigKC"      # Put your Shodan API key here if desired
+HARDCODED_VT_KEY = " "          # Put your VirusTotal v3 API key here if desired
+HARDCODED_SHODAN_KEY = " "      # Put your Shodan API key here if desired
 
 # ---------- Logging ----------
 logging.basicConfig(
