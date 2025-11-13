@@ -9,6 +9,8 @@ It performs automated checks across multiple layers — domain, network, SSL, re
 
 This is my first cybersecurity tool, built to learn Python automation, API integration, and multi-source intelligence gathering.
 
+<img width="1892" height="409" alt="image" src="https://github.com/user-attachments/assets/f10d3019-358a-48cf-a13d-0801980ed6cc" />
+
 
 🚀 Features
 
